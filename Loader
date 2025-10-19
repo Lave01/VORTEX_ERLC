@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lave01/VORTEX_ERLC/refs/heads/main/Main.lua"))()
